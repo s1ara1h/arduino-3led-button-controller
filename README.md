@@ -2,7 +2,9 @@
 
 A simple Arduino project that controls 3 LEDs using 3 push buttons with toggle functionality.
 
-![Arduino LED Controller](circuit_diagram.png)
+<p align="center">
+  <img src="circuit_diagram.png" alt="Arduino LED Controller" width="400">
+</p>
 
 ## 🔧 Features
 
@@ -64,7 +66,7 @@ A simple Arduino project that controls 3 LEDs using 3 push buttons with toggle f
 
 ## 🎥 Demo
 
-![Demo Video](demo_video.mp4)
+[🎥 Watch Demo Video](./demo_video.mp4)
 
 *Click to watch the working demonstration*
 
