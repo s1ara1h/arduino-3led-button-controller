@@ -1,1 +1,3 @@
-Remove demo video file
+git rm demo_video.mp4
+git commit -m "Remove demo video file"
+git push
